@@ -1,11 +1,16 @@
 _repo: Tukor-darabok-az-onismeret-es-emberismeret-vilagabol_66624
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tassy, Ede
     gutenberg_agent_id: '53887'
     url: http://www.gutenberg.org/2009/agents/53887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66624#Tukor-darabok-az-onismeret-es-emberismeret-vilagabol
 gutenberg_issued: '2021-10-28'
 identifiers:
   gutenberg: '66624'
